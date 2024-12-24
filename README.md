@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esse projeto traz várias informações sobre os personagens da franquia Ricky and Morty. Essa aplicação possui uma paginação onde é possível navegar em meio a mais de 800 personagens. Ao clicar em um personagem, é aberto um modal com maiores informações sobre ele. Todas essas informações estão sendo obtidas através da API (https://rickandmortyapi.com/). Foram colocados em prática consumo de API e manipulação de elementos através de Javascript. 
+Esse projeto traz várias informações sobre os personagens da franquia Ricky and Morty. Essa aplicação possui uma paginação onde é possível navegar em meio a mais de 800 personagens. Ao clicar em um personagem, é aberto um modal com maiores informações sobre ele. Todas essas informações estão sendo obtidas através da API [The Rick and Morty API](https://rickandmortyapi.com/). Foram colocados em prática consumo de API e manipulação de elementos através de Javascript. 
 
 - [Acesse o projeto finalizado, online](https://alex518123.github.io/Rick-and-Morty-Project)
 
