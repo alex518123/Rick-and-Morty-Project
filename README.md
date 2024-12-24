@@ -18,7 +18,7 @@ Este é um projeto aberto. Confira a seguir informações relevantes sobre ele.<
 <br>
 
 <p align="center">
-  <img alt="imagem do projeto" src=".assets/preview.png" width="100%">
+  <img alt="imagem do projeto" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
